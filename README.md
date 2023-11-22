@@ -14,6 +14,9 @@ Data gathered from NBA API is formatted and saved to a CSV to be used in a scrol
 ### Demo ###
 https://github.com/Jaromc/nba_scrollytelling/assets/89912906/fbeaeafa-aef2-4d11-8245-cc1637986ea7
 
+![team_shots](https://github.com/Jaromc/nba_scrollytelling/assets/89912906/82ede5ff-c9d4-4acf-be80-f1d9362a66b3)
+
+
 ### References ###
 * https://github.com/russellsamora/scrollama
 * https://github.com/swar/nba_api
