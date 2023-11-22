@@ -11,6 +11,9 @@ Data gathered from NBA API is formatted and saved to a CSV to be used in a scrol
 * Start a python webserver from this folder using python3 -m http.server 9090
 * Access webpage from http://localhost:9090/
 
+### Demo ###
+https://github.com/Jaromc/nba_scrollytelling/assets/89912906/fbeaeafa-aef2-4d11-8245-cc1637986ea7
+
 ### References ###
 * https://github.com/russellsamora/scrollama
 * https://github.com/swar/nba_api
