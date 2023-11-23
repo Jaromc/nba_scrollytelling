@@ -5,7 +5,7 @@ Data gathered from NBA API is formatted and saved to a CSV to be used in a scrol
 ### Setup and Run ###
 
 * docker build -t nba_viz .
-* docker run -it --rm -v /mnt/d/dev/nba_viz:/app nba_viz bash
+* docker run -it --rm -v nba_viz:/app nba_viz bash
 * python3 build_data.py
 
 * Start a python webserver from this folder using python3 -m http.server 9090
